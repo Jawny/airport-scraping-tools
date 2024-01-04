@@ -1,0 +1,102 @@
+[
+  {
+    "origin": "AAL",
+    "destination": "EWR"
+  },
+  {
+    "origin": "ABJ",
+    "destination": "DXB"
+  },
+  {
+    "origin": "ABJ",
+    "destination": "JFK"
+  },
+  {
+    "origin": "ABV",
+    "destination": "IST"
+  },
+  {
+    "origin": "ACC",
+    "destination": "DXB"
+  },
+  {
+    "origin": "ACC",
+    "destination": "IST"
+  },
+  {
+    "origin": "ACC",
+    "destination": "TMS"
+  },
+  {
+    "origin": "ADD",
+    "destination": "ARN"
+  },
+  {
+    "origin": "ADD",
+    "destination": "ATL"
+  },
+  {
+    "origin": "ADD",
+    "destination": "BEY"
+  },
+  {
+    "origin": "ADD",
+    "destination": "BLR"
+  },
+  {
+    "origin": "ADD",
+    "destination": "BRU"
+  },
+  {
+    "origin": "ADD",
+    "destination": "CDG"
+  },
+  {
+    "origin": "ADD",
+    "destination": "CPH"
+  },
+  {
+    "origin": "ADD",
+    "destination": "DAR"
+  },
+  {
+    "origin": "ADD",
+    "destination": "DME"
+  },
+  {
+    "origin": "ADD",
+    "destination": "DXB"
+  },
+  {
+    "origin": "ADD",
+    "destination": "EZE"
+  },
+  {
+    "origin": "ADD",
+    "destination": "FRA"
+  },
+  {
+    "origin": "ADD",
+    "destination": "GVA"
+  },
+  {
+    "origin": "ADD",
+    "destination": "IAD"
+  },
+  {
+    "origin": "ADD",
+    "destination": "IST"
+  },
+  {
+    "origin": "ADD",
+    "destination": "JFK"
+  },
+  {
+    "origin": "ADD",
+    "destination": "JRO"
+  },
+  {
+    "origin": "ADD",
+    "destination": "KUL"
+  }
+]
